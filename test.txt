@@ -1,0 +1,11 @@
+base64 sheetjs.xlsb | curl -F "data=@-;filename=sample.dbf" http://localhost:7071/api/dbf2json2
+
+
+
+dbs2json - SheetJS -- http://sheetjs.com - too many issues now
+
+
+write DBF https://www.npmjs.com/package/dbf
+
+dbf2json2 - read-dbf
+dbf2json3 - https://www.npmjs.com/package/node-dbf
